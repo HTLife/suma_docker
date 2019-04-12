@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-GIVEN_IMAGE_NAME=suma
+GIVEN_IMAGE_NAME=tseanliu/suma:latest
 # Check args
 #if [ "$#" -ne 1 ]; then
 #  echo "usage: ./run.sh GIVEN_IMAGE_NAME"
